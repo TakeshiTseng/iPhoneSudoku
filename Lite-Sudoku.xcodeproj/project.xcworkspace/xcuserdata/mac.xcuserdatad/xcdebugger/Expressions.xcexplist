@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[SudokuCreater sloveSudoku::]:SudokuCreater.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "board[row][col]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SudokuCreater checkOKWithNumber:inCol:AndRow:]:SudokuCreater.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "board[row][c]">
+            </PersistentString>
+            <PersistentString
+               value = "board[r][col]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
